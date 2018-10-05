@@ -1,14 +1,14 @@
 # Harbor
 
-A chrome extension for Cyberoam authentication with functionalities of login/logout, tracking data usage with a easy to use interface providing a smooth user experience.
+A chrome extension for Cyberoam authentication with functionalities of login/logout, tracking data usage with an easy to use interface providing a smooth user experience.
 
 ## Contributing
 
-- Fork this repo and then clone the repo with `git clone https://github.com/osdc/harbor.git` or you can use ssh too.
+- Fork this repo and then clone the repo with `git clone https://github.com/your-username/harbor.git` or you can use ssh too.
 
-- Now open chrome, naviagate to **Options** > **More tools** > **Extensions**
+- Now open chrome, navigate to **Options** > **More tools** > **Extensions**
 
-- Click on load unpacked and select harbor. Voila your extension is ready!
+- Click on load unpacked(visible only when in developer mode) and select harbor. Voila your extension is ready!
 
 - In case of any dilemmas you can create an issue or reach us at our [slack channel](https://jiit-lug.slack.com/messages). 
 
@@ -22,4 +22,3 @@ This project requires a basic understanding of how chrome extensions are build. 
 - [@vaibhavk](https://github.com/vaibhavk) - **Vaibhav Kaushik**
 - [@ryzokuken](https://github.com/ryzokuken) - **Ujjwal Sharma**
 - [@darkHarry](https://github.com/darkHarry) - **Harry S. Mecwan**
-
